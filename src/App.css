@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+  background-color: #edf5f9;
+}
+
+select {
+  width: 10vw;
+}
+
+.filtro_section {
+  background-color: #0035cf;
+  height: 13dvh;
+  justify-content: space-around;
+  align-items: center;
+  color: white;
+
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.superior {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 10vh;
+  /* background-color: green; */
+}
+
+img {
+  height: 100px;
+  width: 100px;
+}
+
+.inferior {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+}
+
+.input {
+  display: flex;
+  flex-direction: column;
+}
+
+.input_inf {
+  width: 15vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.listagem_section {
+  background-color: #edf5f9;
+  height:  80dvh;
+}
